@@ -1,7 +1,7 @@
 # restaurant-css-framework
 
 ## Astoria Ice
-![Logo-Astoria-Ice] (./assets/img/Astoria_Ice.png)
+![Logo-Astoria-Ice] (assets/img/Astoria_Ice.png)
 
 ### Participant
 * Floriant Renders https://github.com/Deepyflo
