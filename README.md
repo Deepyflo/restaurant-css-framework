@@ -19,3 +19,11 @@ Créations d'un site de restaurant en groupe, avec 5 pages définie:
 
 Formation Becode Junior Developer 2021-2022
 
+### Sources Images
+Sandra Mapessa (Logo Astoria)
+https://pixabay.com/fr/
+https://www.freepng.fr/
+www.miam-images.centerblog.net
+https://www.cleanpng.com/
+https://www.pngwing.com/
+https://favpng.com/
