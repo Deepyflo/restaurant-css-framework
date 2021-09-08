@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #ebcbb2;
+}
+
+.jumbotron {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 80vh;
+  background-image: url(/assets/img/ice-cream-5928043_1920.jpg);
+  background-size: cover;
+  background-position: 0 50%;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #FF7DD7;
+  text-shadow: 1px 1px 2px black, 0 0 1em #ebcbb2, 0 0 0.2em #0c0c0c;
+  margin-top: 390px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.lead {
+  text-transform: uppercase;
+  color: #FF7DD7;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-size: 1.5rem;
+  text-shadow: 1px 1px 2px black, 0 0 1em #ebcbb2, 0 0 0.2em #0e0d0d;
+}
+
+.container2 {
+  background-image: url(/assets/img/Astoria_Ice1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 85%;
+  margin-left: 100px;
+  height: 80vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.promo {
+  border: thick double #FF7DD7;
+  height: 60vh;
+  width: 30%;
+  background-color: #C39797;
+  margin-left: 10rem;
+  margin-top: 75px;
+  padding: 8px;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 1em #ebcbb2, 0 0 0.2em #0e0d0d;
+  opacity: 0.85;
+}
+
+.events {
+  border: thick double #FF7DD7;
+  height: 60vh;
+  width: 30%;
+  background-color: #C39797;
+  margin-left: 10rem;
+  margin-top: 75px;
+  padding: 8px;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 1em #ebcbb2, 0 0 0.2em #0e0d0d;
+  opacity: 0.85;
+}
+
+.news {
+  padding-left: 3em;
+}
+
+.date {
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+footer {
+  background-color: #FF7DD7;
+  width: 100%;
+  height: 30px;
+}
+
+.footgauche {
+  float: left;
+  list-style-type: none;
+  margin-top: 10px;
+  padding-left: 12px;
+}
+
+.footdroite {
+  float: right;
+  list-style-type: none;
+  margin-top: 10px;
+  padding-right: 45px;
+}
+/*# sourceMappingURL=style.css.map */
